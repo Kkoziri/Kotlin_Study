@@ -45,7 +45,7 @@
 | **주차** | **챕터** | **[RyuSw-cs](https://github.com/RyuSw-cs)** | **[serim53](https://github.com/serim53)** | **[minha721](https://github.com/minha721)** | **[suyong5713](https://github.com/suyong5713)** | **[YuhoLee](https://github.com/YuhoLee)** | **[rigizer](https://github.com/rigizer)** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1주차|2장|||2.1</br> 2.2</br> 2.5 </br>||2.3</br> 2.4||
-|1주차|3장|3.1<br/> 3.2</br> 3.3|||||3.4</br> 3.5|
+|1주차|3장|3.1<br/> 3.2</br> 3.3|||||3.4</br> 3.5<br/> 3.6|
 |1주차|4장||4.1</br> 4.2||4.3</br> 4.4|||
 
 <br/>
